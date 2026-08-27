@@ -1,13 +1,13 @@
 {
-  "version": "2.0.0-alpha.8",
+  "version": "2.0.0-alpha.9",
   "channel": "alpha",
-  "installerUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.8/Auralith-2.0.0-alpha.8-x64-Setup.exe",
-  "assetUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.8/Auralith-2.0.0-alpha.8-x64-Setup.exe",
-  "assetName": "Auralith-2.0.0-alpha.8-x64-Setup.exe",
-  "sha256": "819d524afee52d775b28f44fe497b77d7033031980a7c3dea977bf61147f553a",
-  "size": 92536191,
-  "publishedAt": "2026-08-27T20:35:00Z",
-  "releaseUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.8",
-  "releaseNotesUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.8",
-  "releaseNotes": "Official Auralith icon and default desktop shortcut."
+  "installerUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.9/Auralith-2.0.0-alpha.9-x64-Setup.exe",
+  "assetUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.9/Auralith-2.0.0-alpha.9-x64-Setup.exe",
+  "assetName": "Auralith-2.0.0-alpha.9-x64-Setup.exe",
+  "sha256": "988800bebee5302b776cc09bb0330aa6318f50e2d8cde68eb6d107e2e12c9a83",
+  "size": 92563191,
+  "publishedAt": "2026-08-27T21:00:00Z",
+  "releaseUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.9",
+  "releaseNotesUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.9",
+  "releaseNotes": "All 80 effects have renderer handlers and sliders."
 }
