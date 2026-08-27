@@ -1,13 +1,13 @@
 {
-  "version": "2.0.0-alpha.12",
+  "version": "2.0.0-alpha.14",
   "channel": "alpha",
-  "installerUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.12/Auralith-2.0.0-alpha.12-x64-Setup.exe",
-  "assetUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.12/Auralith-2.0.0-alpha.12-x64-Setup.exe",
-  "assetName": "Auralith-2.0.0-alpha.12-x64-Setup.exe",
-  "sha256": "674caa94a27887d7c00bea90632d2d65185a04aa651a1d157d42954050fa97c6",
-  "size": 92555322,
-  "publishedAt": "2026-08-27T22:15:00Z",
-  "releaseUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.12",
-  "releaseNotesUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.12",
-  "releaseNotes": "True WASAPI process loopback for Application Audio."
+  "installerUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.14/Auralith-2.0.0-alpha.14-x64-Setup.exe",
+  "assetUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.14/Auralith-2.0.0-alpha.14-x64-Setup.exe",
+  "assetName": "Auralith-2.0.0-alpha.14-x64-Setup.exe",
+  "sha256": "e749f33e32b47f7057961b93b407aa064ce650cbe4f6713e1d69e6965aa49ed6",
+  "size": 92601136,
+  "publishedAt": "2026-08-27T22:50:00Z",
+  "releaseUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.14",
+  "releaseNotesUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.14",
+  "releaseNotes": "Process loopback activation repair with HRESULT stage logging."
 }
