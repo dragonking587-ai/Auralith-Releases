@@ -1,13 +1,13 @@
 {
-  "version": "2.0.0-alpha.15",
+  "version": "2.0.0-alpha.16",
   "channel": "alpha",
-  "installerUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.15/Auralith-2.0.0-alpha.15-x64-Setup.exe",
-  "assetUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.15/Auralith-2.0.0-alpha.15-x64-Setup.exe",
-  "assetName": "Auralith-2.0.0-alpha.15-x64-Setup.exe",
-  "sha256": "3c1b9ff3ab955d5bc919605650ce80ae3f609b775f2873ed71c180d4a6132511",
-  "size": ,
-  "publishedAt": "2026-08-27T23:30:00Z",
-  "releaseUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.15",
-  "releaseNotesUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.15",
-  "releaseNotes": "Process loopback skips GetMixFormat; PCM16 44.1 stereo init."
+  "installerUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.16/Auralith-2.0.0-alpha.16-x64-Setup.exe",
+  "assetUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.16/Auralith-2.0.0-alpha.16-x64-Setup.exe",
+  "assetName": "Auralith-2.0.0-alpha.16-x64-Setup.exe",
+  "sha256": "e8079b31190d53fcc44da2ff5456e14ad1956aaa1a0cfd5a5ba5254c8c490246",
+  "size": 92580227,
+  "publishedAt": "2026-08-27T23:45:00Z",
+  "releaseUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.16",
+  "releaseNotesUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.16",
+  "releaseNotes": "Native process-loopback diagnostic panel. Web Audio fallback not activated."
 }
