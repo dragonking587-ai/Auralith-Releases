@@ -1,13 +1,13 @@
 {
-  "version": "2.0.0-alpha.9",
+  "version": "2.0.0-alpha.10",
   "channel": "alpha",
-  "installerUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.9/Auralith-2.0.0-alpha.9-x64-Setup.exe",
-  "assetUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.9/Auralith-2.0.0-alpha.9-x64-Setup.exe",
-  "assetName": "Auralith-2.0.0-alpha.9-x64-Setup.exe",
-  "sha256": "988800bebee5302b776cc09bb0330aa6318f50e2d8cde68eb6d107e2e12c9a83",
-  "size": 92563191,
-  "publishedAt": "2026-08-27T21:00:00Z",
-  "releaseUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.9",
-  "releaseNotesUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.9",
-  "releaseNotes": "All 80 effects have renderer handlers and sliders."
+  "installerUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.10/Auralith-2.0.0-alpha.10-x64-Setup.exe",
+  "assetUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.10/Auralith-2.0.0-alpha.10-x64-Setup.exe",
+  "assetName": "Auralith-2.0.0-alpha.10-x64-Setup.exe",
+  "sha256": "d46ef6bd3536555b7d3c99cdd96b76437ae99005ab201a8642326f06801d2777",
+  "size": 92576873,
+  "publishedAt": "2026-08-27T21:20:00Z",
+  "releaseUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.10",
+  "releaseNotesUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.10",
+  "releaseNotes": "WASAPI loopback sample conversion and raw meters."
 }
