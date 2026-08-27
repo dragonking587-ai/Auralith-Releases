@@ -1,1 +1,13 @@
-{}
+{
+  "version": "2.0.0-alpha.5",
+  "channel": "alpha",
+  "installerUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.5/Auralith-2.0.0-alpha.5-x64-Setup.exe",
+  "assetUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.5/Auralith-2.0.0-alpha.5-x64-Setup.exe",
+  "assetName": "Auralith-2.0.0-alpha.5-x64-Setup.exe",
+  "sha256": "14e2706238c4d35afd6a8abc65a494570d34763bc9efd5ff42cdc68a01ede7f5",
+  "size": 66934507,
+  "publishedAt": "2026-08-27T18:22:00Z",
+  "releaseUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.5",
+  "releaseNotesUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.5",
+  "releaseNotes": "Public updater channel. Image preview handoff. Unsigned test build."
+}
