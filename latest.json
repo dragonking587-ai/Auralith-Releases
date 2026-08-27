@@ -1,13 +1,13 @@
 {
-  "version": "2.0.0-alpha.10",
+  "version": "2.0.0-alpha.11",
   "channel": "alpha",
-  "installerUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.10/Auralith-2.0.0-alpha.10-x64-Setup.exe",
-  "assetUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.10/Auralith-2.0.0-alpha.10-x64-Setup.exe",
-  "assetName": "Auralith-2.0.0-alpha.10-x64-Setup.exe",
-  "sha256": "d46ef6bd3536555b7d3c99cdd96b76437ae99005ab201a8642326f06801d2777",
-  "size": 92576873,
-  "publishedAt": "2026-08-27T21:20:00Z",
-  "releaseUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.10",
-  "releaseNotesUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.10",
-  "releaseNotes": "WASAPI loopback sample conversion and raw meters."
+  "installerUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.11/Auralith-2.0.0-alpha.11-x64-Setup.exe",
+  "assetUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.11/Auralith-2.0.0-alpha.11-x64-Setup.exe",
+  "assetName": "Auralith-2.0.0-alpha.11-x64-Setup.exe",
+  "sha256": "27f9e0a431d472e8028a69baab9b3462c1333a382cd7f2cbdb8ee2c6f0fbe708",
+  "size": 92554913,
+  "publishedAt": "2026-08-27T21:50:00Z",
+  "releaseUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.11",
+  "releaseNotesUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.11",
+  "releaseNotes": "Application audio sessions and editor coordinate alignment."
 }
