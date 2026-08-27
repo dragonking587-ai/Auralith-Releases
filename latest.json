@@ -1,13 +1,13 @@
 {
-  "version": "2.0.0-alpha.7",
+  "version": "2.0.0-alpha.8",
   "channel": "alpha",
-  "installerUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.7/Auralith-2.0.0-alpha.7-x64-Setup.exe",
-  "assetUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.7/Auralith-2.0.0-alpha.7-x64-Setup.exe",
-  "assetName": "Auralith-2.0.0-alpha.7-x64-Setup.exe",
-  "sha256": "cb01505d0f0d9abf27d1b6d4179dc4da11b50462c2222bf27871d4b81b3b963c",
-  "size": 92498843,
-  "publishedAt": "2026-08-27T20:20:00Z",
-  "releaseUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.7",
-  "releaseNotesUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.7",
-  "releaseNotes": "Trace/Stamp/Emitter editor, WASAPI desktop audio, Group A effects."
+  "installerUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.8/Auralith-2.0.0-alpha.8-x64-Setup.exe",
+  "assetUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.8/Auralith-2.0.0-alpha.8-x64-Setup.exe",
+  "assetName": "Auralith-2.0.0-alpha.8-x64-Setup.exe",
+  "sha256": "819d524afee52d775b28f44fe497b77d7033031980a7c3dea977bf61147f553a",
+  "size": 92536191,
+  "publishedAt": "2026-08-27T20:35:00Z",
+  "releaseUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.8",
+  "releaseNotesUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.8",
+  "releaseNotes": "Official Auralith icon and default desktop shortcut."
 }
