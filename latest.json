@@ -1,13 +1,13 @@
 {
-  "version": "2.0.0-alpha.6",
+  "version": "2.0.0-alpha.7",
   "channel": "alpha",
-  "installerUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.6/Auralith-2.0.0-alpha.6-x64-Setup.exe",
-  "assetUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.6/Auralith-2.0.0-alpha.6-x64-Setup.exe",
-  "assetName": "Auralith-2.0.0-alpha.6-x64-Setup.exe",
-  "sha256": "f5358d8bfde7145701f1e49d09f32456fedea7a48b15cc61e0125776d2d4f19b",
-  "size": 66948320,
-  "publishedAt": "2026-08-27T19:20:00Z",
-  "releaseUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.6",
-  "releaseNotesUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.6",
-  "releaseNotes": "Image load fix. Decoded photo stays on the canvas."
+  "installerUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.7/Auralith-2.0.0-alpha.7-x64-Setup.exe",
+  "assetUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.7/Auralith-2.0.0-alpha.7-x64-Setup.exe",
+  "assetName": "Auralith-2.0.0-alpha.7-x64-Setup.exe",
+  "sha256": "cb01505d0f0d9abf27d1b6d4179dc4da11b50462c2222bf27871d4b81b3b963c",
+  "size": 92498843,
+  "publishedAt": "2026-08-27T20:20:00Z",
+  "releaseUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.7",
+  "releaseNotesUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.7",
+  "releaseNotes": "Trace/Stamp/Emitter editor, WASAPI desktop audio, Group A effects."
 }
