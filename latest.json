@@ -1,13 +1,13 @@
 {
-  "version": "2.0.0-alpha.19",
+  "version": "2.0.0-alpha.20",
   "channel": "alpha",
-  "installerUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.19/Auralith-2.0.0-alpha.19-x64-Setup.exe",
-  "assetUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.19/Auralith-2.0.0-alpha.19-x64-Setup.exe",
-  "assetName": "Auralith-2.0.0-alpha.19-x64-Setup.exe",
-  "sha256": "20bf68310f1a9a979dabcc57b9722590fc7776304670bf88da74e38f6d1dae1a",
-  "size": 92589611,
-  "publishedAt": "2026-08-28T04:00:00Z",
-  "releaseUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.19",
-  "releaseNotesUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.19",
-  "releaseNotes": "Visible 420x180 Web Audio panel and trusted HTML capture click."
+  "installerUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.20/Auralith-2.0.0-alpha.20-x64-Setup.exe",
+  "assetUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.20/Auralith-2.0.0-alpha.20-x64-Setup.exe",
+  "assetName": "Auralith-2.0.0-alpha.20-x64-Setup.exe",
+  "sha256": "6ecda2431236bd177b4f2a7c823aabcd48a3576bdc8b387ff5204f40dae11144",
+  "size": 92588065,
+  "publishedAt": "2026-08-28T04:30:00Z",
+  "releaseUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.20",
+  "releaseNotesUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.20",
+  "releaseNotes": "Single WASAPI architecture. Web Audio experiment removed."
 }
