@@ -1,13 +1,13 @@
 {
-  "version": "2.0.0-alpha.18",
+  "version": "2.0.0-alpha.19",
   "channel": "alpha",
-  "installerUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.18/Auralith-2.0.0-alpha.18-x64-Setup.exe",
-  "assetUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.18/Auralith-2.0.0-alpha.18-x64-Setup.exe",
-  "assetName": "Auralith-2.0.0-alpha.18-x64-Setup.exe",
-  "sha256": "9ac057dad05b10531ed6ab952c0ced04b27bb2d55c9d1be094a7bc15ea95a3c0",
-  "size": 92577925,
-  "publishedAt": "2026-08-28T00:30:00Z",
-  "releaseUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.18",
-  "releaseNotesUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.18",
-  "releaseNotes": "Web Audio backend. Native WASAPI kept."
+  "installerUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.19/Auralith-2.0.0-alpha.19-x64-Setup.exe",
+  "assetUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.19/Auralith-2.0.0-alpha.19-x64-Setup.exe",
+  "assetName": "Auralith-2.0.0-alpha.19-x64-Setup.exe",
+  "sha256": "20bf68310f1a9a979dabcc57b9722590fc7776304670bf88da74e38f6d1dae1a",
+  "size": 92589611,
+  "publishedAt": "2026-08-28T04:00:00Z",
+  "releaseUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.19",
+  "releaseNotesUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.19",
+  "releaseNotes": "Visible 420x180 Web Audio panel and trusted HTML capture click."
 }
