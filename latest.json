@@ -1,13 +1,13 @@
 {
-  "version": "2.0.0-alpha.17",
+  "version": "2.0.0-alpha.18",
   "channel": "alpha",
-  "installerUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.17/Auralith-2.0.0-alpha.17-x64-Setup.exe",
-  "assetUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.17/Auralith-2.0.0-alpha.17-x64-Setup.exe",
-  "assetName": "Auralith-2.0.0-alpha.17-x64-Setup.exe",
-  "sha256": "506f74a9419194e4402fdcee3d9ff418599b4ca46b8cfa54c0c260b7dc2a95b0",
-  "size": 92578185,
-  "publishedAt": "2026-08-28T00:00:00Z",
-  "releaseUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.17",
-  "releaseNotesUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.17",
-  "releaseNotes": "Desktop loopback reports WAITING/NO SIGNAL/CAPTURING from real packets."
+  "installerUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.18/Auralith-2.0.0-alpha.18-x64-Setup.exe",
+  "assetUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/download/2.0.0-alpha.18/Auralith-2.0.0-alpha.18-x64-Setup.exe",
+  "assetName": "Auralith-2.0.0-alpha.18-x64-Setup.exe",
+  "sha256": "9ac057dad05b10531ed6ab952c0ced04b27bb2d55c9d1be094a7bc15ea95a3c0",
+  "size": 92577925,
+  "publishedAt": "2026-08-28T00:30:00Z",
+  "releaseUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.18",
+  "releaseNotesUrl": "https://github.com/dragonking587-ai/Auralith-Releases/releases/tag/2.0.0-alpha.18",
+  "releaseNotes": "Web Audio backend. Native WASAPI kept."
 }
